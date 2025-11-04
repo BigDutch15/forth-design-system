@@ -56,6 +56,18 @@ export default {
           800: '#313131',
           900: '#202020',
         },
+        'forth-stone': {
+          50: '#FAFAFB',
+          100: '#F7F8F9',
+          200: '#F5F6F7',
+          300: '#EFF1F2',
+          400: '#EAEDEE',
+          500: '#E5E8EA',
+          600: '#C6CBCE',
+          700: '#A7ADB1',
+          800: '#899095',
+          900: '#798187',
+        },
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
