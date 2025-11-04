@@ -44,6 +44,18 @@ export default {
           800: '#8C6E19',
           900: '#5E4A11',
         },
+        'forth-charcoal': {
+          50: '#E5E5E5',
+          100: '#D6D6D6',
+          200: '#B9B9B9',
+          300: '#AAAAAA',
+          400: '#8C8C8C',
+          500: '#6F6F6F',
+          600: '#515151',
+          700: '#414141',
+          800: '#313131',
+          900: '#202020',
+        },
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],

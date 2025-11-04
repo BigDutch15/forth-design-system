@@ -51,7 +51,7 @@ const buttonClasses = computed(() => {
   // Color variants for solid style
   const solidVariants = {
     primary: 'bg-forth-plum-600 text-white hover:bg-forth-plum-700 active:bg-forth-plum-800 focus:ring-forth-plum-500',
-    secondary: 'bg-secondary-600 text-white hover:bg-secondary-700 active:bg-secondary-800 focus:ring-secondary-500',
+    secondary: 'bg-forth-charcoal-600 text-black hover:bg-forth-charcoal-700 active:bg-forth-charcoal-800 focus:ring-forth-charcoal-500',
     success: 'bg-green-600 text-white hover:bg-green-700 active:bg-green-800 focus:ring-green-500',
     danger: 'bg-red-600 text-white hover:bg-red-700 active:bg-red-800 focus:ring-red-500',
     warning: 'bg-yellow-600 text-white hover:bg-yellow-700 active:bg-yellow-800 focus:ring-yellow-500',
@@ -61,7 +61,7 @@ const buttonClasses = computed(() => {
   // Outlined variants
   const outlinedVariants = {
     primary: 'border-2 border-forth-plum-600 text-forth-plum-600 hover:bg-forth-plum-50 active:bg-forth-plum-100 focus:ring-forth-plum-500',
-    secondary: 'border-2 border-secondary-600 text-secondary-600 hover:bg-secondary-50 active:bg-secondary-100 focus:ring-secondary-500',
+    secondary: 'border-2 border-forth-charcoal-600 text-forth-charcoal-600 hover:bg-forth-charcoal-50 active:bg-forth-charcoal-100 focus:ring-forth-charcoal-500',
     success: 'border-2 border-green-600 text-green-600 hover:bg-green-50 active:bg-green-100 focus:ring-green-500',
     danger: 'border-2 border-red-600 text-red-600 hover:bg-red-50 active:bg-red-100 focus:ring-red-500',
     warning: 'border-2 border-yellow-600 text-yellow-600 hover:bg-yellow-50 active:bg-yellow-100 focus:ring-yellow-500',
@@ -71,7 +71,7 @@ const buttonClasses = computed(() => {
   // Ghost variants
   const ghostVariants = {
     primary: 'text-forth-plum-600 hover:bg-forth-plum-50 active:bg-forth-plum-100 focus:ring-forth-plum-500',
-    secondary: 'text-secondary-600 hover:bg-secondary-50 active:bg-secondary-100 focus:ring-secondary-500',
+    secondary: 'text-forth-charcoal-600 hover:bg-forth-charcoal-50 active:bg-forth-charcoal-100 focus:ring-forth-charcoal-500',
     success: 'text-green-600 hover:bg-green-50 active:bg-green-100 focus:ring-green-500',
     danger: 'text-red-600 hover:bg-red-50 active:bg-red-100 focus:ring-red-500',
     warning: 'text-yellow-600 hover:bg-yellow-50 active:bg-yellow-100 focus:ring-yellow-500',
@@ -81,7 +81,7 @@ const buttonClasses = computed(() => {
   // Link variants
   const linkVariants = {
     primary: 'text-forth-plum-600 hover:text-forth-plum-700 underline-offset-4 hover:underline focus:ring-forth-plum-500',
-    secondary: 'text-secondary-600 hover:text-secondary-700 underline-offset-4 hover:underline focus:ring-secondary-500',
+    secondary: 'text-forth-charcoal-600 hover:text-forth-charcoal-700 underline-offset-4 hover:underline focus:ring-forth-charcoal-500',
     success: 'text-green-600 hover:text-green-700 underline-offset-4 hover:underline focus:ring-green-500',
     danger: 'text-red-600 hover:text-red-700 underline-offset-4 hover:underline focus:ring-red-500',
     warning: 'text-yellow-600 hover:text-yellow-700 underline-offset-4 hover:underline focus:ring-yellow-500',
